@@ -12,6 +12,7 @@ function App() {
       <h1> Sathwic </h1>
       <h1> Vinay kumar </h1>
       <h1>G Priyanka</h1>
+      <h1>karthik</h1>
     </div>
   );
 }
