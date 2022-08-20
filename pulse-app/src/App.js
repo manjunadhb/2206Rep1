@@ -26,7 +26,7 @@ function App() {
       {/* SATHWIC RAJ */}
       <h1> Sathwic </h1>
 
-{/*shreehari information */}
+{/*shreehari Information */}
       <h1>shreehari</h1>
       <ol>
         <li>Full Name - Shreehari</li>
