@@ -18,6 +18,7 @@ function App() {
       <h1>karthik</h1>
       <h1>Masarath Anjum</h1>
       <h1>Sandeep</h1>
+      <h1>Batch 2206</h1>
     </div>
   );
 }
