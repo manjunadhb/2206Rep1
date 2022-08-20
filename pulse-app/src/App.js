@@ -12,18 +12,18 @@ function App() {
       <h1> Venkatesh </h1>
       <h1> Shaikh Waqar </h1>
 
-      <div id="sathwicContainer">
-        <h1> Sathwic </h1>
-        <ul>
-          <li>Date of Birth : 04/12/1997.</li>
-          <li>Qualification : B.Com(Computer Applications).</li>
-          <li>
-            About Myself : Curious, Determined, Open-minded and an Existential
-            Nihilist. Always ready for adventures.
-          </li>
-          <li></li>
-        </ul>
-      </div>
+      {/* SATHWIC RAJ */}
+
+      <h1> Sathwic </h1>
+      <ul>
+        <li>Date of Birth : 04/12/1997.</li>
+        <li>Qualification : B.Com(Computer Applications).</li>
+        <li>
+          About Myself : Curious, Determined, Open-minded and an Existential
+          Nihilist. Always ready for adventures.
+        </li>
+        <li></li>
+      </ul>
 
       <h1>shreehari</h1>
       <h1> Vinay kumar </h1>
