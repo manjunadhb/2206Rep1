@@ -10,7 +10,7 @@ function App() {
       <h1> Venkatesh </h1>
       <h1> Shaikh Waqar </h1>
       <h1> Sathwic </h1>
-      <h1> Vinay </h1>
+      <h1> Vinay kumar </h1>
     </div>
   );
 }
