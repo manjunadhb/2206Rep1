@@ -32,7 +32,7 @@ function App() {
             About Myself : Curious, Determined, Open-minded and an Existential
             Nihilist. Always ready for adventures.
           </li>
-          <li></li>
+          
         </ul>
       </div>
 
