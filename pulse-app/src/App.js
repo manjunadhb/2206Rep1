@@ -1,4 +1,3 @@
- 
 import "./App.css";
 
 function App() {
@@ -23,10 +22,9 @@ function App() {
       {/*-------------------------------*/}
       <h1> Shaikh Waqar </h1>
 
-      {/* SATHWIC RAJ */}
       <h1> Sathwic </h1>
 
-{/*shreehari Information */}
+      {/*shreehari Information */}
       <h1>shreehari</h1>
       <ol>
         <li>Full Name - Shreehari</li>
@@ -34,18 +32,8 @@ function App() {
         <li>Qualification - BE(Mechanical)</li>
       </ol>
       {/*----------------------*/}
-      
-     <h1> Vinay kumar </h1>
-=======
-      <ul>
-        <li>Date of Birth : 04/12/1997.</li>
-        <li>Qualification : B.Com(Computer Applications).</li>
-        <li>
-          About Myself : Curious, Determined, Open-minded and an Existential
-          Nihilist. Always ready for adventures.
-        </li>
-      </ul>
-      {/*-------------------------------*/}
+
+      <h1> Vinay kumar </h1>
 
       <h1>shreehari</h1>
       <h1> Vinay kumar </h1>
@@ -59,7 +47,6 @@ function App() {
       <h1>Heading-MyName</h1>
       <h1>Hitesh Kumar</h1>
       <h1>Masrad</h1>
-     
     </div>
   );
 }
