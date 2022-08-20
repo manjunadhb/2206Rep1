@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <h1>Manjunadh</h1>
 
+      {/* Students of 2206 Batch. */}
       <h1>Shaikh Waqar</h1>
       <h1>shankar santosh gorle</h1>
 
