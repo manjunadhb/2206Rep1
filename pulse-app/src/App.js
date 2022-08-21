@@ -82,7 +82,6 @@ function App() {
         <li>Developing Single Page Application (SPA)</li>
         <li>Version controller</li>
       </ul>
-      <h3>Ho</h3>
       {/* .............................................. */}
       {/* My Information */}
       <h1>G Priyanka</h1>
