@@ -9,7 +9,7 @@ class Student {
 
     traits = () => {
         console.log(
-            `Curious, determined, open-minded and an Existential-nihilist. Always ready for adventures.`
+            `I have always been curious, determined, open-minded and an Existential-nihilist. Always ready for adventures.`
         );
     };
 }
