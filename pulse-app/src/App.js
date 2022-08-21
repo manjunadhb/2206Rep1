@@ -4,12 +4,7 @@ function App() {
   return (
     <div className="App">
       <h1>Manjunadh</h1>
-      <h1>shankar santosh gorle</h1>
-      <h1> Venkatesh </h1>
-      <h1> Shaikh Waqar </h1>
-      <h1> Sathwic </h1>
-      <h1>shreehari</h1>
-      <h1> Vinay kumar </h1>
+      
       {/* Students of 2206 Batch. */}
       <h1>Shaikh Waqar</h1>
       <h1>shankar santosh gorle</h1>
@@ -115,11 +110,11 @@ function App() {
       {/* Sandeep Info */}
       <h1> Sandeep </h1>
       <ol>
-        <li>Full Name - P.Sandeep</li>
-        <li>DOB - 08/04/1996</li>
-        <li>Qualification - B.Sc Statistics</li>
-        <li>A Little Bit About Me - Am An Introvert</li>
-        <li>Hobbies - Numismatist,Notaphilist</li>
+        <li>Full Name : P.Sandeep</li>
+        <li>DOB : 08/04/1996</li>
+        <li>Qualification : B.Sc Statistics</li>
+        <li>A Little Bit About Me : Am An Introvert</li>
+        <li>Hobbies : Numismatist and Notaphilist</li>
       </ol>
       <h1>Prashanth</h1>
       <h1>Vikram</h1>
