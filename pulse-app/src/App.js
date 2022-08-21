@@ -66,6 +66,13 @@ function App() {
         believe in myself and I am confident that nothing is impossible if we
         work really hard for it.
       </p>
+      <h3>Skills</h3>
+      <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>Java Script</li>
+        <li>React JS</li>
+      </ul>
       {/* .............................................. */}
       {/* My Information */}
       <h1>G Priyanka</h1>
