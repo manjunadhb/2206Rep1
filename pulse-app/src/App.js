@@ -113,7 +113,7 @@ function App() {
         <li>Full Name : P.Sandeep</li>
         <li>DOB : 08/04/1996</li>
         <li>Qualification : B.Sc Statistics</li>
-        <li>A Little Bit About Me : Am An Introvert</li>
+        <li>A Little Bit About Me : Am An Introvert,Foodie</li>
         <li>Hobbies : Numismatist and Notaphilist</li>
       </ol>
       <h1>Prashanth</h1>
