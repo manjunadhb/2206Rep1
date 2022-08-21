@@ -114,7 +114,7 @@ function App() {
         <li>DOB : 08/04/1996</li>
         <li>Qualification : B.Sc Statistics</li>
         <li>A Little Bit About Me : Am An Introvert,Foodie</li>
-        <li>Hobbies : Numismatist and Notaphilist</li>
+        <li>Hobbies : Numismatist & Notaphilist</li>
       </ol>
       {/* -------------------------------- */}
 
