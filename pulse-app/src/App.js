@@ -50,7 +50,7 @@ function App() {
       </ol>
       {/*----------------------*/}
       {/* Vinay kumar Info */}
-      <h1>Name : Vinay kumar </h1>
+      <h1> Vinay kumar </h1>
       <p>
         Hey 2206 team, Hope you're all having a great day! I'm Vinay kumar .
         Since I know we'll be working together on quite a few different
