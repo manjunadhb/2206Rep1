@@ -64,7 +64,15 @@ function App() {
 
       {/* .............................................. */}
 
+      {/* My Information */}  
       <h1>karthik</h1>
+      <ul>
+        <li>Name : karthik</li>
+        <li>Native Place : Ongole</li>
+        <li>Qualification : Bca </li>
+        
+      </ul>
+
 
       {/* My Introduction*/}
       <h1>Anjum</h1>
