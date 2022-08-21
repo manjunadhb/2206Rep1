@@ -119,6 +119,20 @@ function App() {
       {/* -------------------------------- */}
 
 
+      {/* ----------Miriyala Rama Krishna Info---------- */}
+      <h1> Miriyala Rama Krishna </h1>
+      <ol>
+        <li>Full Name : M.rama Krishna</li>
+        <li>DOB : 26/02/2000</li>
+        <li>Qualification : B.Tech CSE</li>
+        <li>from :Vijayawada</li>
+        
+        
+      </ol>
+      {/* -------------------------------- */}
+
+
+
       <h1>Prashanth</h1>
       <h1>Vikram</h1>
       <h1>Heading-MyName</h1>
