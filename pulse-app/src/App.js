@@ -45,7 +45,20 @@ function App() {
       {/*----------------------*/}
 
       <h1> Vinay kumar </h1>
+
+      {/* .............................................. */}
+
+      {/* My Information */}
       <h1>G Priyanka</h1>
+      <ul>
+        <li>Name : Priyanka</li>
+        <li>Native Place : Hyderabad</li>
+        <li>Qualification : M.Sc(cs) </li>
+        <li>Hobbies : Playing Games</li>
+      </ul>
+
+      {/* .............................................. */}
+
       <h1>karthik</h1>
       <h1>Masarath Anjum</h1>
 
@@ -58,7 +71,7 @@ function App() {
         <li>A Little Bit About Me - Am An Introvert</li>
         <li>Hobbies - Numismatist,Notaphilist</li>
       </ol>
-      
+
       <h1>Prashanth</h1>
       <h1>Vikram</h1>
       <h1>Heading-MyName</h1>
