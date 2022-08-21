@@ -55,20 +55,24 @@ function App() {
         Hey 2206 team, Hope you're all having a great day! I'm Vinay kumar .
         Since I know we'll be working together on quite a few different
         projects, I wanted to reach out and briefly introduce myself I have
-        completed my BE  . As a short-term goal, I
-        am looking for an opportunity to grow my career with a reputed
-        organization. My vision in life is to make something big in life and
-        bring laurels to the organization I work with. I believe that there is
-        something to learn from everyone and that is my biggest strength. 
-        I like
-        to take up challenges and take the lesson plan from my mistakes. I am a
-        perfectionist and I strive for excellence. I would surely adapt to the
-        work environment and put in 100% to enhance my knowledge and skills. I
-        believe in myself and I am confident that nothing is impossible if we
-        work really hard for it.
+        completed my BE . As a short-term goal, I am looking for an opportunity
+        to grow my career with a reputed organization. My vision in life is to
+        make something big in life and bring laurels to the organization I work
+        with. I believe that there is something to learn from everyone and that
+        is my biggest strength. I like to take up challenges and take the lesson
+        plan from my mistakes. I am a perfectionist and I strive for excellence.
+        I would surely adapt to the work environment and put in 100% to enhance
+        my knowledge and skills. I believe in myself and I am confident that
+        nothing is impossible if we work really hard for it.
       </p>
       <h3>Education</h3>
-      <p>Maturi Venkata Subba Rao Engineering College</p>
+      <p>
+        Bachelor of Engineering
+        Maturi Venkata Subba Rao Engineering College
+        Hyderabad
+        2018
+        Electronics and Communication Engineering
+      </p>
       <h3>Skills</h3>
       <ul>
         <li>HTML5</li>
