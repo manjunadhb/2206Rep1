@@ -107,7 +107,8 @@ function App() {
         <li>Hobbies :Listening Music </li>
       </ul>
       {/*...*/}
-      {/* Sandeep Info */}
+      
+      {/* ----------Sandeep Info---------- */}
       <h1> Sandeep </h1>
       <ol>
         <li>Full Name : P.Sandeep</li>
@@ -116,6 +117,9 @@ function App() {
         <li>A Little Bit About Me : Am An Introvert,Foodie</li>
         <li>Hobbies : Numismatist and Notaphilist</li>
       </ol>
+       {/* ------------------------- */}
+
+
       <h1>Prashanth</h1>
       <h1>Vikram</h1>
       <h1>Heading-MyName</h1>
