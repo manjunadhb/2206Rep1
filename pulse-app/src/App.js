@@ -48,7 +48,17 @@ function App() {
       <h1>G Priyanka</h1>
       <h1>karthik</h1>
       <h1>Masarath Anjum</h1>
-      <h1>Sandeep</h1>
+
+      {/* Sandeep Info */}
+      <h1> Sandeep </h1>
+      <ol>
+        <li>Full Name - P.Sandeep</li>
+        <li>DOB - 08/04/1996</li>
+        <li>Qualification - B.Sc Statistics</li>
+        <li>A Little Bit About Me - Am An Introvert</li>
+        <li>Hobbies - Numismatist,Notaphilist</li>
+      </ol>
+      
       <h1>Prashanth</h1>
       <h1>Vikram</h1>
       <h1>Heading-MyName</h1>
