@@ -8,6 +8,11 @@ function App() {
       {/* Students of 2206 Batch. */}
       <h1>Shaikh Waqar</h1>
       <h1>shankar santosh gorle</h1>
+      <ul>
+        <li>Qualification: B.tech Mechanical Engineering</li>
+        <li>About Me: Extrovert,positive Attitude</li>
+        <li>Hobbies: Reading books, Road trips,paying visits to Piligrims</li>
+      </ul>
 
       {/* Venkatesh Info */}
       <h1> Venkatesh </h1>
