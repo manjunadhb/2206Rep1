@@ -1,15 +1,17 @@
 class Qualification {
     constructor() {
-        (this.qualification = ""), (this.course = ""), (this.stream = "");
+        console.log(`Student Qualifications.`);
+        this.qualification = "Degree";
+        this.course = "Bachelor of Commerce";
+        this.stream = "Computer Applications";
     }
 
-    gradeView() {
-        grade = () => {
-            console.log(`GPA 7.54`);
-        };
+    grade = () => {
+        console.log(`GPA 7.54`);
+    };
 
-        university = () => {
-            console.log(`Yogi Vemana University`);
-        };
-    }
+    university = () => {
+        console.log(`Yogi Vemana University`);
+    };
 }
+export default Qualification;
