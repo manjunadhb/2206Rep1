@@ -18,17 +18,7 @@ function App() {
         <li>About Me: Extrovert,positive Attitude</li>
         <li>Hobbies: Reading books, Road trips,paying visits to Piligrims</li>
       </ul>
-      {/* Venkatesh Info */}
-      <h1> Venkatesh </h1>
-      <ol>
-        <li>Full Name - V.Venkateswarlu</li>
-        <li>DOB - 06/09/1999</li>
-        <li>Qualification - Degree</li>
-        <li>Dream - A Well settled Life</li>
-        <li>About Me - Introvert,creative learning and enthusiastic person</li>
-        <li>Habits - Road Trips,Eating and Learning new things</li>
-      </ol>
-      {/*-------------------------------*/}
+      
       <h1> Shaikh Waqar </h1>
       {/* SATHWIC RAJ */}
       <h1> Sathwic </h1>
