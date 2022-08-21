@@ -70,8 +70,9 @@ function App() {
         <li>Name : karthik</li>
         <li>Native Place : Ongole</li>
         <li>Qualification : Bca </li>
-        
       </ul>
+       {/* .............................................. */}
+
 
 
       {/* My Introduction*/}
