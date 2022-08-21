@@ -126,9 +126,7 @@ function App() {
         <li>DOB : 26/02/2000</li>
         <li>Qualification : B.Tech CSE</li>
         <li>from :Vijayawada</li>
-        
-        
-      </ol>
+        </ol>
       {/* -------------------------------- */}
 
 
