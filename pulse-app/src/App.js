@@ -71,7 +71,7 @@ function App() {
         <li>Native Place : Ongole</li>
         <li>Qualification : Bca </li>
       </ul>
-       {/* .............................................. */}
+       {/* .....*/}
 
 
 
