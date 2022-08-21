@@ -117,7 +117,7 @@ function App() {
         <li>A Little Bit About Me : Am An Introvert,Foodie</li>
         <li>Hobbies : Numismatist and Notaphilist</li>
       </ol>
-       {/* ------------------------- */}
+      {/* -------------------------------- */}
 
 
       <h1>Prashanth</h1>
