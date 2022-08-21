@@ -72,6 +72,8 @@ function App() {
         <li>CSS3</li>
         <li>Java Script</li>
         <li>React JS</li>
+        <li>Developing Single Page Application (SPA)</li>
+        <li>Version controller</li>
       </ul>
       {/* .............................................. */}
       {/* My Information */}
