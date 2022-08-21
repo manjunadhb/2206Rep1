@@ -8,7 +8,7 @@ function App() {
       <h1>shankar santosh gorle</h1>
       <h1> Venkatesh </h1>
       <h1> Shaikh Waqar </h1>
-      <h1> Sathwic </h1>
+      <h1> Sathwic </h1> 
       <h1>shreehari</h1>
       <h1> Vinay kumar </h1>
       <h1>G Priyanka</h1>
