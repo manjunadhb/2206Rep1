@@ -5,7 +5,7 @@ import PersonalDetails from "./classes/Personal Details";
 
 function App() {
   let myBatch = new Batch();
-  console.log(`Batch Name : ${myBatch.institutionName}`);
+  console.log(`Institution Name : ${myBatch.institutionName}`);
   console.log(`Batch ID : ${myBatch.batchCode}`);
  
   console.log('------------------------------------------');
