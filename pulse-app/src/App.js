@@ -60,7 +60,19 @@ function App() {
       {/* .............................................. */}
 
       <h1>karthik</h1>
-      <h1>Masarath Anjum</h1>
+
+      {/* My Introduction*/}
+      <h1>Anjum</h1>
+      <ul>
+        <li> Full Name :Masarath Anjum </li>
+        <li>Native Place : Hyderabad</li>
+        <li>Qualification : B.Tech(IT) </li>
+        <li>Hobbies :Listening Music </li>
+      </ul>
+
+      {/*...*/}
+
+      
 
       {/* Sandeep Info */}
       <h1> Sandeep </h1>
