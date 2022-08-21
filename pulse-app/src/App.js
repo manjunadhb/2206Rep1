@@ -6,7 +6,6 @@ function App() {
       <h1>Manjunadh</h1>
       
       {/* Students of 2206 Batch. */}
-      <h1>Shaikh Waqar</h1>
       <h1>shankar santosh gorle</h1>
       <ul>
         <li>Qualification: B.tech Mechanical Engineering</li>
