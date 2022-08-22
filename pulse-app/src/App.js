@@ -134,7 +134,12 @@ function App() {
 
 
       <h1>Prashanth</h1>
-      <h1>Vikram</h1>
+     {/* info about vikram */}
+      <h1>Full Name: ETTE VIKRAM</h1>
+      <h1>Native Place: Nizambad</h1>
+      <h1>Hobbies: Watching Movies, Solving Sudoku</h1>
+      
+
       <h1>Heading-MyName</h1>
       <h1>Hitesh Kumar</h1>
       {/* My Introduction */}
