@@ -4,16 +4,14 @@ function App() {
   return (
     <div className="App">
       <h1>Manjunadh</h1>
-
+      
       {/* Students of 2206 Batch. */}
-      <h1>Shaikh Waqar</h1>
       <h1>shankar santosh gorle</h1>
       <ul>
         <li>Qualification: B.tech Mechanical Engineering</li>
         <li>About Me: Extrovert,positive Attitude</li>
         <li>Hobbies: Reading books, Road trips,paying visits to Piligrims</li>
       </ul>
-
       {/* Venkatesh Info */}
       <h1> Venkatesh </h1>
       <ol>
@@ -26,9 +24,7 @@ function App() {
       </ol>
       {/*-------------------------------*/}
       <h1> Shaikh Waqar </h1>
-
       {/* SATHWIC RAJ */}
-
       <h1> Sathwic </h1>
       <ul>
         <li>Date of Birth : 04/12/1997.</li>
@@ -39,7 +35,6 @@ function App() {
         </li>
       </ul>
       {/*-------------------------------*/}
-
       {/*shreehari Information */}
       <h1>shreehari</h1>
       <ol>
@@ -48,11 +43,40 @@ function App() {
         <li>Qualification - BE(Mechanical)</li>
       </ol>
       {/*----------------------*/}
-
+      {/* Vinay kumar Info */}
       <h1> Vinay kumar </h1>
-
+      <p>
+        Hey 2206 team, Hope you're all having a great day! I'm Vinay kumar .
+        Since I know we'll be working together on quite a few different
+        projects, I wanted to reach out and briefly introduce myself I have
+        completed my BE . As a short-term goal, I am looking for an opportunity
+        to grow my career with a reputed organization. My vision in life is to
+        make something big in life and bring laurels to the organization I work
+        with. I believe that there is something to learn from everyone and that
+        is my biggest strength. I like to take up challenges and take the lesson
+        plan from my mistakes. I am a perfectionist and I strive for excellence.
+        I would surely adapt to the work environment and put in 100% to enhance
+        my knowledge and skills. I believe in myself and I am confident that
+        nothing is impossible if we work really hard for it.
+      </p>
+      <h3>Education</h3>
+      <p>
+        Bachelor of Engineering
+        Maturi Venkata Subba Rao Engineering College
+        Hyderabad
+        2018
+        Electronics and Communication Engineering
+      </p>
+      <h3>Skills</h3>
+      <ul>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>Java Script</li>
+        <li>React JS</li>
+        <li>Developing Single Page Application (SPA)</li>
+        <li>Version controller</li>
+      </ul>
       {/* .............................................. */}
-
       {/* My Information */}
       <h1>G Priyanka</h1>
       <ul>
@@ -61,18 +85,17 @@ function App() {
         <li>Qualification : M.Sc(cs) </li>
         <li>Hobbies : Playing Games</li>
       </ul>
-
       {/* .............................................. */}
+      
 
-      {/* My Information */}  
+      {/* My Information */}
       <h1>karthik</h1>
       <ul>
-        <li>Name : karthik</li>
+        <li>Name : Karthik</li>
+        <li>Dob :27-11-2000</li>
         <li>Native Place : Ongole</li>
-        <li>Qualification : Bca </li>
       </ul>
-       {/* .....*/}
-
+      
 
 
       {/* My Introduction*/}
@@ -83,26 +106,43 @@ function App() {
         <li>Qualification : B.Tech(IT) </li>
         <li>Hobbies :Listening Music </li>
       </ul>
-
       {/*...*/}
-
       
-
-      {/* Sandeep Info */}
+      {/* ----------Sandeep Info---------- */}
       <h1> Sandeep </h1>
       <ol>
-        <li>Full Name - P.Sandeep</li>
-        <li>DOB - 08/04/1996</li>
-        <li>Qualification - B.Sc Statistics</li>
-        <li>A Little Bit About Me - Am An Introvert</li>
-        <li>Hobbies - Numismatist,Notaphilist</li>
+        <li>Full Name : P.Sandeep</li>
+        <li>DOB : 08/04/1996</li>
+        <li>Qualification : B.Sc Statistics</li>
+        <li>A Little Bit About Me : Am An Introvert,Foodie</li>
+        <li>Hobbies : Numismatist & Notaphilist</li>
       </ol>
+      {/* -------------------------------- */}
+
+
+      {/* ----------Miriyala Rama Krishna Info---------- */}
+      <h1> Miriyala Rama Krishna </h1>
+      <ol>
+        <li>Full Name : M.rama Krishna</li>
+        <li>DOB : 26/02/2000</li>
+        <li>Qualification : B.Tech CSE</li>
+        <li>from :Vijayawada</li>
+        </ol>
+      {/* -------------------------------- */}
+
+
 
       <h1>Prashanth</h1>
       <h1>Vikram</h1>
       <h1>Heading-MyName</h1>
       <h1>Hitesh Kumar</h1>
+      {/* My Introduction */}
       <h1>Masrad</h1>
+      <ul>
+      <li>Name : Masrad</li>
+      <li>Native Place : Ongole</li>
+      <li>Qualification : Degree</li>
+      </ul>
     </div>
   );
 }
