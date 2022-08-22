@@ -144,11 +144,12 @@ function App() {
 
       {/* Prashanth Information */}
 
-      <h1>Prashanth</h1>
+      <h1>Prashanth Details</h1>
       <ol>
         <li>Full Name: Noothpally Prashanth</li>
         <li>Qualification: BE in Computer Science</li>
-        </ol>
+      </ol>
+
       <h1>Skills</h1>
       <ol>
         <li>HTML5</li>
@@ -157,13 +158,15 @@ function App() {
         <li>React JS</li>
         <li>RPA in Uipath Studio</li>
       </ol>
-     <h1>Interests</h1>
-     <li>Playing Cricket</li>
-     <li>Listening Music</li>
-     <li>Loves to travel</li>
-     <li>Movie Lover</li>
-     <li>Regular Workouts</li>
 
+     <h1>Interests</h1>
+     <ol>
+      <li>Playing Cricket</li>
+      <li>Listening Music</li>
+      <li>Loves to travel</li>
+      <li>Movie Lover</li>
+      <li>Regular Workouts</li>
+     </ol>
 
 
 
@@ -172,6 +175,13 @@ function App() {
 
 
       <h1>Vikram</h1>
+=======
+     {/* info about vikram */}
+      <h1>Full Name: ETTE VIKRAM</h1>
+      <h1>Native Place: Nizambad</h1>
+      <h1>Hobbies: Watching Movies, Solving Sudoku</h1>
+      
+
       <h1>Heading-MyName</h1>
       <h1>Hitesh Kumar</h1>
       {/* My Introduction */}
