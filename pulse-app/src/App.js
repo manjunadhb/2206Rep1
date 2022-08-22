@@ -143,17 +143,26 @@ function App() {
 
 
       {/* Prashanth Information */}
+
       <h1>Prashanth</h1>
       <ol>
         <li>Full Name: Noothpally Prashanth</li>
         <li>Qualification: BE in Computer Science</li>
-        <li>Full Name: Noothpally Prashanth</li>
-        <li>Full Name: Noothpally Prashanth</li>
-        <li>Full Name: Noothpally Prashanth</li>
-        <li>Full Name: Noothpally Prashanth</li>
- 
         </ol>
-
+      <h1>Skills</h1>
+      <ol>
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>Java Script</li>
+        <li>React JS</li>
+        <li>RPA in Uipath Studio</li>
+      </ol>
+     <h1>Interests</h1>
+     <li>Playing Cricket</li>
+     <li>Listening Music</li>
+     <li>Loves to travel</li>
+     <li>Movie Lover</li>
+     <li>Regular Workouts</li>
 
 
 
