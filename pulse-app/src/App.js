@@ -39,13 +39,10 @@ function App() {
       <h1> Vinay kumar </h1>
       <h1>G Priyanka</h1>
       <h1>karthik</h1>
-      <h1>Masarath Anjum</h1>
+      <h1>Masarath Anjum</h1> 
       <h1>Sandeep</h1>
       <h1>Prashanth</h1>
       <h1>Vikram</h1>
-      <h1>Heading-MyName</h1>
-      <h1>Hitesh Kumar</h1>
-     
     </div>
   );
 }
