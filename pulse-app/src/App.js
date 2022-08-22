@@ -40,7 +40,7 @@ function App() {
       <ol>
         <li>Full Name - Shreehari</li>
         <li>Native Place - Karnataka</li>
-        <li>Qualification - BE(Mechanical)</li>
+        <li>Qualification - BE(Mechanical Engineering)</li>
       </ol>
       {/*----------------------*/}
       {/* Vinay kumar Info */}
