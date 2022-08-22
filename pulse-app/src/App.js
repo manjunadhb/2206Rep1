@@ -42,6 +42,11 @@ function App() {
         <li>Native Place - Karnataka</li>
         <li>Qualification - BE(Mechanical Engineering)</li>
       </ol>
+      <hr></hr>
+      <br></br>
+      <h1>Git Clone is Getting a copy of Global Repository</h1>
+      <img src="https://miro.medium.com/max/1400/0*0bGgvQVttKvcr3qd.png"></img>
+      
       {/*----------------------*/}
       
       {/* Vinay kumar Info */}
