@@ -95,7 +95,7 @@ function App() {
         <li>Dob :27-11-2000</li>
         <li>Native Place : Ongole</li>
       </ul>
-      
+      {/*.....*/}
 
 
       {/* My Introduction*/}
