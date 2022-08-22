@@ -42,6 +42,7 @@ function App() {
         <li>Native Place - Karnataka</li>
         <li>Qualification - BE(Mechanical Engineering)</li>
       </ol>
+      <img src="https://initialcommit.com/img/initialcommit/baby-git-release.png"></img>
       {/*----------------------*/}
       {/* Vinay kumar Info */}
       <h1> Vinay kumar </h1>
