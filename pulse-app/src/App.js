@@ -191,7 +191,19 @@ function App() {
       <li>Native Place : Ongole</li>
       <li>Qualification : Degree</li>
       </ul>
+
+      {/* Shruti Info */}
+      <h1>Shruti</h1>
+      <ol>
+        <li>Full Name - B.Shruti</li>
+        <li>DOB - 17/12/2000</li>
+        <li>Qualification - Degree</li>
+        <li>Dream - A Well settled Life</li>
+        <li>About Me - extrovert,creative learning and exploring myself</li>
+        <li>Hobbies -travelling,gardening,dancing</li>
+      </ol>
     </div>
+    
   );
 }
 
