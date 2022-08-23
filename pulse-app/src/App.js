@@ -45,7 +45,7 @@ function App() {
       <hr></hr>
       <br></br>
       <h1>Git Clone is Getting a copy of Global Repository</h1>
-      <img src="https://miro.medium.com/max/1400/0*0bGgvQVttKvcr3qd.png"></img>
+  
       
       {/*----------------------*/}
       
