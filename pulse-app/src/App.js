@@ -223,6 +223,17 @@ function App() {
       </ol>
       {/*-------------------------------*/}
 
+      {/* SateeshKumar Info */}
+      <h1>S. Sateesh Kumar </h1>
+      <ol>
+        <li>Full Name - Sateesh Kumar</li>
+        <li>DOB - 23/06/1992</li>
+        <li>Qualification - BTECH</li>
+        <li>Helloworld</li>
+      </ol>
+      {/*-------------------------------*/}
+
+
     </div>
     
   );
