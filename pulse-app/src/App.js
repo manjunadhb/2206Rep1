@@ -210,6 +210,19 @@ function App() {
     <h1>srilakshmi</h1>
     <h4>Qualification: MCA</h4>
 
+
+      {/* kiranGoud Info */}
+      <h1> Venkatesh </h1>
+      <ol>
+        <li>Full Name - V.Sai Kiran</li>
+        <li>DOB - 06/09/1999</li>
+        <li>Qualification - Degree</li>
+        <li>Dream - A Well settled Life</li>
+        <li>About Me - Introvert,creative learning and enthusiastic person</li>
+        <li>Habits - Road Trips,Eating and Learning new things</li>
+      </ol>
+      {/*-------------------------------*/}
+
     </div>
     
   );
