@@ -212,10 +212,10 @@ function App() {
 
 
       {/* kiranGoud Info */}
-      <h1> Venkatesh </h1>
+      <h1> V. Sai Kiran </h1>
       <ol>
         <li>Full Name - V.Sai Kiran</li>
-        <li>DOB - 06/09/1999</li>
+        <li>DOB - 06/09/1998</li>
         <li>Qualification - Degree</li>
         <li>Dream - A Well settled Life</li>
         <li>About Me - Introvert,creative learning and enthusiastic person</li>
