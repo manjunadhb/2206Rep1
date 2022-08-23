@@ -229,7 +229,7 @@ function App() {
         <li>Full Name - Sateesh Kumar</li>
         <li>DOB - 23/06/1992</li>
         <li>Qualification - BTECH</li>
-        <li>Helloworld</li>
+        <li>NATIVE PLACE - Kadapa</li>
       </ol>
       {/*-------------------------------*/}
 
