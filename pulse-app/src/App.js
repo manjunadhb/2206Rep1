@@ -208,6 +208,7 @@ function App() {
       </ol>
 
     <h1>srilakshmi</h1>
+    <h4>Qualification: MCA</h4>
 
     </div>
     
