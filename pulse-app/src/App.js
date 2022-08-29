@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <h1>Manjunadh</h1>
 
-      <h1>javisetty anjaneyulu</h1>
+       
       {/* Students of 2206 Batch. */}
       <h1>shankar santosh gorle</h1>
       <ul>
@@ -94,22 +94,32 @@ function App() {
       </ul>
       {/* .............................................. */}
 
+      
        {/* My Information */}
-       <h1>Anjaneyulu Javisetty</h1>
+
+       <h1> Anjaneyulu Javisetty</h1>
       <ul>
         <li>Name :- Anjaneyulu Javisetty</li>
         <li>Native Place :- macherla</li>
         <li>Qualification :- M.Sc(phy) </li>
         <li>Hobbies :- Playing Games</li>
       </ul>
-      {/* .............................................. */}
+          {/* .............................................. */}
+          
+          {/* ----------Sandeep Info---------- */}
+      <h1> Sandeep </h1>
+      <ol>
+        <li>Full Name : P.Sandeep</li>
+        <li>DOB : 08/04/1996</li>
+        <li>Qualification : B.Sc Statistics</li>
+        <li>A Little Bit About Me : Am An Introvert,Foodie</li>
+        <li>Hobbies : Numismatist & Notaphilist</li>
+      </ol>
+      {/* -------------------------------- */}
       
 
       {/* My Information */}
-      <h1>karthik</h1>
-      <h1>Masarath Anjum</h1> 
-      <h1>Sandeep</h1>
-
+      
       <h1>Prashanth</h1>
       <h1>Vikram</h1>
       <ul>
@@ -130,16 +140,7 @@ function App() {
       </ul>
       {/*...*/}
       
-      {/* ----------Sandeep Info---------- */}
-      <h1> Sandeep </h1>
-      <ol>
-        <li>Full Name : P.Sandeep</li>
-        <li>DOB : 08/04/1996</li>
-        <li>Qualification : B.Sc Statistics</li>
-        <li>A Little Bit About Me : Am An Introvert,Foodie</li>
-        <li>Hobbies : Numismatist & Notaphilist</li>
-      </ol>
-      {/* -------------------------------- */}
+      
 
 
       {/* ----------Miriyala Rama Krishna Info---------- */}
