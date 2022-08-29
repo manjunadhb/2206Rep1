@@ -93,6 +93,16 @@ function App() {
         <li>Hobbies : Playing Games</li>
       </ul>
       {/* .............................................. */}
+
+       {/* My Information */}
+       <h1>Anjaneyulu Javisetty</h1>
+      <ul>
+        <li>Name :- Anjaneyulu Javisetty</li>
+        <li>Native Place :- macherla</li>
+        <li>Qualification :- M.Sc(phy) </li>
+        <li>Hobbies :- Playing Games</li>
+      </ul>
+      {/* .............................................. */}
       
 
       {/* My Information */}
